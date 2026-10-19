@@ -27,12 +27,12 @@
 
 Không ngừng học hỏi, nâng cao kỹ năng lập trình và xây dựng các dự án thực tế phục vụ học tập cũng như công việc sau này.
 
-## Liên hệ
-vanthuan230620079865@gmail.com 
-sdt 0378232921
 
-- **Email:** Thêm email của bạn tại đây
-- **GitHub:** https://github.com/vanthuan230620079865-lab
+## Liên hệ
+
+- **Email:** vanthuan230620079865@gmail.com
+- **Số điện thoại:** 0378232921
+- **GitHub:** [vanthuan230620079865-lab](https://github.com/vanthuan230620079865-lab)
 
 ## Câu nói yêu thích
 
